@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">👋</h1>
 <p align="center"><i>I'm Simon.<br>  
   Currently learning web development.<br>
   I'm always interested in learning new things.<br></i>
