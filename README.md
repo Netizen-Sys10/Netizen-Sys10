@@ -1,5 +1,5 @@
 <h1 align="center">👋</h1>
-<p align="center"><i>I'm Simon G.<br>  
+<p align="center"><i>I'm ___.<br>  
   Currently learning web development.<br>
   I'm always interested in learning new things.<br></i>
 </p>
